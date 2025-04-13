@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bong-gu Kang
+title: Dong Geun Han
 
 # Full name (for SEO)
-first_name: 봉구
-last_name: 강
+first_name: 동근
+last_name: 한
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,17 +13,17 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Learner @ Samsung SW Academy for Youth
+role: Learner @ Samsung SW Academy for Youth 13th
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: hero/envelope
-    url: 'mailto:rkdbq001011@gmail.com'
+    url: 'mailto:ehdrms001030@naver.com'
   - icon: brands/github
-    url: https://github.com/rkdbq
+    url: https://github.com/l0o0lv
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/rkdbq
+    url: https://www.linkedin.com/in/dongri
 
 education:
   - area: 모바일 전공 트랙
@@ -32,9 +32,9 @@ education:
     date_end: ''
 
   - area: 컴퓨터공학 학사
-    institution: 전북대학교
+    institution: 계명대학교
     date_start: 2019-03-01
-    date_end: 2025-02-21
+    date_end: 2025-02-18
     summary: |
       - 전공 GPA 4.37 / 4.50
       - 전체 GPA 4.18 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_KOR.pdf)
@@ -90,7 +90,7 @@ languages:
     percent: 50
 ---
 
-#### SSAFY 13기에서 공부 중인 강봉구입니다.
+#### SSAFY 13기에서 공부 중인 한동근입니다.
 ### 깊은 경험을 쌓아나가고 싶습니다.
 - [언어 공부부터 시작해 기숙사 룸메이트 매칭 플랫폼을 배포한 경험이 있습니다.](projects/roomie/)
 - [모델 이해부터 시작해 비주얼컴퓨팅 연구실에서 두 연구에 기여했습니다.](publication/)
