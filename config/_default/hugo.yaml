@@ -4,17 +4,17 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: rkdbq
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://example.com/portfolio'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
@@ -25,8 +25,7 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-pagination:
-  pagerSize: 10
+pagination.pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -54,3 +53,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /**
+    show_date: false
+    backlinks: false
