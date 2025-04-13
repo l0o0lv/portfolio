@@ -36,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "rkdbq"
+      text: "dongri"
       filename: "logo.png"
 
 # Site footer

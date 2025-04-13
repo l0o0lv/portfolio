@@ -19,20 +19,20 @@ role: Learner @ Samsung SW Academy for Youth
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: hero/envelope
-    url: 'mailto:rkdbq001011@gmail.com'
+    url: 'mailto:ehdrms001030@naver.com'
   - icon: brands/github
-    url: https://github.com/rkdbq
+    url: https://github.com/l0o0lv
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/rkdbq
+    url: https://www.linkedin.com/in/dongri
 
 education:
   - area: Mobile Track
-    institution: Samsung SW Academy for Youth
-    date_start: 2019-01-07
+    institution: Samsung SW Academy for Youth 13th
+    date_start: 2025-01-07
     date_end: ''
 
   - area: Bachelor of Computer Science and Engineering
-    institution: Jeonbuk National University
+    institution: Keyimyung University
     date_start: 2019-03-01
     date_end: 2025-02-21
     summary: |

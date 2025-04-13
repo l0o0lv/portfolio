@@ -28,7 +28,7 @@ profiles:
 education:
   - area: 모바일 전공 트랙
     institution: 삼성 청년 SW 아카데미
-    date_start: 2019-01-07
+    date_start: 2025-01-07
     date_end: ''
 
   - area: 컴퓨터공학 학사
