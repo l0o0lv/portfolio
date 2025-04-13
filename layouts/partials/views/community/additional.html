@@ -1,0 +1,27 @@
+{{ $item := .item }}
+{{ $page := .page }}
+{{ $summary := $item.Params.summary | default $item.Params.description | default $item.Summary }}
+{{ $summary =  $summary | page.RenderString }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+<article class="md:col-span-3 group relative flex flex-col items-start">
+  <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
+    <div
+      class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
+    <p><span
+      class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">{{$item.Title}}</span>
+      
+      {{ if $has_attachments }}
+      <span class="flex-wrap space-x-3 relative z-20 hover-effect">
+        {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+      </span>
+      {{ end }}
+    </p>
+  </h2>
+  <!-- <time
+    class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-1"
+    datetime="{{ time.Format "2006-01-02" $item.Date }}">
+    {{ time.Format (site.Params.locale.date_format | default ":date_long") $item.Date }}
+  </time> -->
+  <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">{{$summary}}</p>
+
+</article>
