@@ -1,6 +1,6 @@
 ---
 title: OPIC IM1
-summary: 2024년 09월
+summary: 2024년 9월
 date: 2024-09-05
 type: docs
 math: false

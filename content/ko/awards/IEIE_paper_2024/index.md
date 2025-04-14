@@ -1,6 +1,6 @@
 ---
 title: 2024년 대한전자공학회 하계학술대회 우수논문상
-summary: 2024년 06월
+summary: 2024년 6월
 date: 2024-06-28
 type: docs
 math: false
