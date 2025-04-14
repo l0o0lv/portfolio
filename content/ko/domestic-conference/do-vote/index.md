@@ -1,13 +1,15 @@
 ---
-title: Backpropagation-Based Optimization Method for Quality Improvement of Simplified Meshes
+title: 투표 기반 커뮤니티 어플리케이션 -Do표
 authors:
-- Dong-won Jeong
+- Choi Seung Bin
+- Kim Bo Sung
 - admin
-- Soon-jo Kwon
-- Hyung-ki Kim
-date: "2023-12-01T00:00:00Z"
+- Song Sung Min
+- Bae Seong min
+- Park Se Jin
+date: "2024-05-01T00:00:00Z"
 
-publication: "_Korean Journal of Computational Design and Engineering_"
+publication: "_2024 한국정보기술학회 하계 종합학술대회 논문집_"
 
-url_pdf: papers/[06 398-407] 44 김형기.pdf
+url_pdf: papers/투표 기반 커뮤니티 어플리케이션 - Do표.pdf
 ---

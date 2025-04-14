@@ -1,13 +1,14 @@
 ---
-title: Backpropagation-Based Optimization Method for Quality Improvement of Simplified Meshes
+title: 대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교
 authors:
-- Dong-won Jeong
 - admin
-- Soon-jo Kwon
-- Hyung-ki Kim
-date: "2023-12-01T00:00:00Z"
+- Kim Bo Seung
+- Choi Seung Bin
+- Bae Seong min
+- Park Se Jin
+date: "2024-06-01T00:00:00Z"
 
-publication: "_Korean Journal of Computational Design and Engineering_"
+publication: "_2024년 대한전자공학회 하계학술대회 논문집_"
 
-url_pdf: papers/[06 398-407] 44 김형기.pdf
+url_pdf: papers/대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교.pdf
 ---
