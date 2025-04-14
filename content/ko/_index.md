@@ -72,33 +72,21 @@ sections:
       title: 🎶
       slides:
       - background: 
-          content: '"발아(發芽)", 2025'
+          content: '"YDBB 우리의밤", 2024'
           image:
-            filename: music/hanroro_consert.jpeg
+            filename: music/ydbb_우리의밤_2024.jpeg
       - background: 
-          content: '"And yet, We still", 2024'
+          content: '"YDBB FOUND OUT!", 2024'
           image:
-            filename: music/nerd_connection_consert.jpeg
+            filename: music/ydbb_found_out_2024.jpeg
       - background: 
-          content: '"소리없는 비가 내린다", 2024'
+          content: '"PSY 흠뻑쇼", 2022'
           image:
-            filename: music/beomjunjang_consert.jpeg
+            filename: music/psy_summer_swag_2022.jpeg
       - background: 
-          content: 'IPRF 2024'
+          content: '"박효신 LOVERS", 2019'
           image:
-            filename: music/iprf_2024.jpeg
-      - background: 
-          content: '"ringringring", 2024'
-          image:
-            filename: music/surl_consert.jpeg
-      - background: 
-          content: 'IPRF 2023'
-          image:
-            filename: music/iprf_2023.jpeg
-      - background: 
-          content: '"New Years’s Eve" 2022'
-          image:
-            filename: music/the_black_skirt_consert.jpeg
+            filename: music/parkhyosin_lovers_2019.jpeg
 
     design:
       view: community/main-grid
