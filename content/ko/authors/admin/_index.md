@@ -39,15 +39,34 @@ education:
       - 전공 GPA 4.37 / 4.50
       - 전체 GPA 4.18 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_KOR.pdf)
 work:
-  - position: 학부연구생
-    company_name: '비주얼컴퓨팅 연구실 (지도교수: 김형기)'
-    company_url: https://sites.google.com/view/vclab-cnu
+  - position: 운영진
+    company_name: '멋쟁이사자처럼 대학 12기'
+    company_url: https://likelion.university/
     company_logo: ''
-    date_start: 2022-09-01
+    date_start: 2024-01-01
+    date_end: 2024-12-31
+    summary: |
+      - 1학기 매주 스프링부트 스터디 준비 및 진행
+      - 동아리 전국 아이디어톤, 해커톤 참가
+
+  - position: 부원
+    company_name: '멋쟁이사자처럼 대학 11기'
+    company_url: https://likelion.university/
+    company_logo: ''
+    date_start: 2023-01-01
     date_end: 2023-12-31
     summary: |
-      - LOD 최적화 연구
-      - P&ID 객체 검출 및 텍스트 인식 연구
+      - 1학기 매주 운영진 주관 스프링부트 스터디 참가
+      - 동아리 전국 아이디어톤, 해커톤 참가
+
+  - position: 체육부장
+    company_name: '공과대학 학생회'
+    company_url: https://abeek.kmu.ac.kr/sites/abeek/index.do
+    company_logo: kmu_student_council.jpg
+    date_start: 2022-01-01
+    date_end: 2022-12-31
+    summary: |
+      - 공과대학 체육대회, 단과대학 축제 등 여러 행사 기획
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
