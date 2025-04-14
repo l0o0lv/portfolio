@@ -36,8 +36,8 @@ education:
     date_start: 2019-03-01
     date_end: 2025-02-18
     summary: |
-      - 전공 GPA 4.37 / 4.50
-      - 전체 GPA 4.18 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_KOR.pdf)
+      - 전공 GPA 3.9 / 4.50
+      - 전체 GPA 3.86 / 4.50 [{{< icon name="hero/document" >}}](../certifications/성적증명서_KOR.pdf)
 work:
   - position: 운영진
     company_name: '멋쟁이사자처럼 대학 12기'
