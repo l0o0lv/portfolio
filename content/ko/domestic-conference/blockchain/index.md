@@ -6,7 +6,7 @@ authors:
 - Kim Bo Seung
 - Bae Seong min
 - Song Sung Min
-- Park Se Jin<br>  
+- Park Se Jin
 date: "2023-11-01T00:00:00Z"
 
 publication: "_2023년도 한국통신학회 추계학술대회_"  
