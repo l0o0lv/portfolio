@@ -14,4 +14,4 @@ featured: true
 
 코드: [{{< icon name="brands/github" >}}](https://github.com/changuii/DigitalMarketing-Server)
 
-{{<youtube -LtBtlGEpQo>}}
+<!-- {{<youtube -LtBtlGEpQo>}} -->
