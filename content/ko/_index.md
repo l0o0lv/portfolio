@@ -97,10 +97,10 @@ sections:
   #     title: Location
   #     text: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.5645458003783!2d128.41650287676933!3d36.104101672453865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3565c40da8feab95%3A0x577f3f41f2c2e01!2z6rK97IOB67aB64-EIOq1rOuvuOyLnCDsnbjrj5ky6ri4IDE0LTM!5e0!3m2!1sko!2skr!4v1741421177275!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 
   - block: community/slider
     content:

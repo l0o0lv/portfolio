@@ -83,11 +83,11 @@ work:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: Korean
-    percent: 100
-  - name: English
-    percent: 50
+# languages:
+#   - name: Korean
+#     percent: 100
+#   - name: English
+#     percent: 50
 ---
 
 #### I am a learner in the Samsung SW Academy for Youth 13th.
