@@ -16,11 +16,7 @@ DO표는 일상 속 말하기 애매했던 고민이나 생각들을 부담 없�
 - 코드: [{{< icon name="brands/github" >}}](https://github.com/l0o0lv/DoVote-MSA) 
 - 사용 기술:  
 - 사용 기술:  
-  {{< icon name="devicon/jenkins" >}} Jenkins |  
-  {{< icon name="devicon/spring" >}} Spring Boot |  
-  {{< icon name="devicon/nginx" >}} Nginx |  
-  {{< icon name="devicon/redis" >}} Redis |  
-  <img src="/icons/aws.svg" width="20" style="vertical-align: middle;" /> AWS
+  {{< icon name="devicon/jenkins" >}} | {{< icon name="devicon/spring" >}} | {{< icon name="devicon/nginx" >}} | {{< icon name="devicon/redis" >}} | <img src="/icons/custom/aws.svg" width="20" style="vertical-align: middle;"/>
 - 개발 기간: 2023년 9월 - 2024년 6월
 
 ### 중간 데모영상
