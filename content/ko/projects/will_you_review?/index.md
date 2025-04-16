@@ -13,7 +13,7 @@ math: false
 이로 인해 소규모 스타트업들은 적은 리뷰 수로 제품 신뢰도 확보와 마케팅에 어려움을 겪고 있습니다.
 이러한 문제를 해결하고자, 소비자가 보다 **쉽고 간편하게 리뷰를 남길 수 있는 ‘리뷰할래?’ 서비스를 기획하게 되었습니다.
 
-- 문서: [{{< icon name="hero/document" >}}](리뷰할래?.pdf)
+- 문서: [{{< icon name="hero/document" >}}](리뷰할래.pdf)
 - 코드: [{{< icon name="brands/github" >}}](https://github.com/merge-halle) 
 - 사용 기술: SpringBoot, EC2, Nginx, Docker, MariaDB, GPT API
 - 개발 환경: {{< icon name="devicon/apple" >}} | {{< icon name="devicon/docker" >}}
