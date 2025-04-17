@@ -9,10 +9,10 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: markdown
-    id: about
-    content:
-      text: "![img](https://plus.unsplash.com/premium_photo-1667126444822-94fb21279436?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"
+  # - block: markdown
+  #   id: about
+  #   content:
+  #     text: "![img](https://plus.unsplash.com/premium_photo-1667126444822-94fb21279436?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"
   - block: community/resume-biography-3-custom
     content:
       # The user's folder name in `content/authors/`
@@ -29,7 +29,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '2006년 January'
+      date_format: '2025년 January'
       # Education or Experience section first?
       is_education_first: true
 
