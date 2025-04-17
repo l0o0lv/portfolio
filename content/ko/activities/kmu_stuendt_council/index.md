@@ -1,7 +1,7 @@
 ---
 title: 공과대학 학생회
 summary: 2022년 1월 ~ 2022년 12월
-date: 2024-12-31
+date: 2022-12-31
 type: docs
 math: false
 featured: true
