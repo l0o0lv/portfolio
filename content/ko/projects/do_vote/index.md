@@ -3,6 +3,7 @@ title: 모두의 투표, DO표
 summary: 2023년 9월 - 2024년 6월
 date: 2024-06-23
 type: docs
+featured: true
 math: false
 ---
 

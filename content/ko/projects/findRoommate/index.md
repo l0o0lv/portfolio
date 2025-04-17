@@ -4,6 +4,7 @@ summary: 2022년 3월 - 2022년 6월
 date: 2024-09-18
 type: docs
 math: false
+featured: false
 ---
 
 ### 개요

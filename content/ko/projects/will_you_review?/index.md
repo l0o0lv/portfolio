@@ -4,6 +4,7 @@ summary: 2024년 8월 - 2024년 8월
 date: 2024-10-01
 type: docs
 math: false
+featured: true
 ---
 
 ### 개요

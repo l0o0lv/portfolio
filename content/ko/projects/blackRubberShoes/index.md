@@ -4,7 +4,7 @@ summary: 2023년 9월 - 2023년 12월
 date: 2024-09-30
 type: docs
 math: false
-featured: true
+featured: false
 ---
 
 ### 개요
