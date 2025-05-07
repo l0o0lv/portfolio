@@ -78,7 +78,7 @@ sections:
       - background: 
           content: '"YDBB Get Lucky!", 2025'
           image:
-            filename: music/ydbb_get_lucky_2025.jpeg
+            filename: music/ydbb_get_lucky_2025.jpg
       - background: 
           content: '"YDBB 우리의밤", 2024'
           image:
