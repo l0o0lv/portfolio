@@ -115,19 +115,7 @@ sections:
       title: 🧳
       slides:
       - background: 
-          content: Osaka, 2019
+          content: Cebu, 2025
           image:
-            filename: trip/osaka.jpeg
-      - background: 
-          content: Dokyo, 2020
-          image:
-            filename: trip/dokyo.jpeg
-      - background: 
-          content: Cebu, 2023
-          image:
-            filename: trip/cebu.jpeg
-      - background: 
-          content: Fukuoka, 2023
-          image:
-            filename: trip/fukuoka.jpeg
+            filename: trip/cebu.jpg
 ---
