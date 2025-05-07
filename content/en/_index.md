@@ -21,7 +21,7 @@ sections:
       # To link to a file, upload it to your `static/uploads/` folder
       button:
         text: Resume
-        url: ../uploads/resume_KOR.pdf 
+        url: ../uploads/resume_ENG.pdf 
 
   - block: resume-experience
     id: experience
@@ -29,7 +29,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '2006년 January'
+      date_format: 'Jan. 2006'
       # Education or Experience section first?
       is_education_first: true
 
