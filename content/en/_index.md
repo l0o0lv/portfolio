@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "6rem"
 
 sections:
   - block: markdown
@@ -21,7 +21,7 @@ sections:
       # To link to a file, upload it to your `static/uploads/` folder
       button:
         text: Resume
-        url: ../uploads/resume_ENG.pdf
+        url: ../uploads/resume_KOR.pdf 
 
   - block: resume-experience
     id: experience
@@ -29,7 +29,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'Jan. 2006'
+      date_format: '2006년 January'
       # Education or Experience section first?
       is_education_first: true
 
@@ -72,46 +72,43 @@ sections:
       title: 🎶
       slides:
       - background: 
-          content: '"발아(發芽)", 2025'
+          content: '"Coldplay Seoul", 2025'
           image:
-            filename: music/hanroro_consert.jpeg
+            filename: music/coldplay_seoul_2025.jpeg
       - background: 
-          content: '"And yet, We still", 2024'
+          content: '"YDBB Get Lucky!", 2025'
           image:
-            filename: music/nerd_connection_consert.jpeg
+            filename: music/ydbb_get_lucky_2025.jpg
       - background: 
-          content: '"소리없는 비가 내린다", 2024'
+          content: '"YDBB 우리의밤", 2024'
           image:
-            filename: music/beomjunjang_consert.jpeg
+            filename: music/ydbb_우리의밤_2024.jpeg
       - background: 
-          content: 'IPRF 2024'
+          content: '"YDBB FOUND OUT!", 2024'
           image:
-            filename: music/iprf_2024.jpeg
+            filename: music/ydbb_found_out_2024.jpeg
       - background: 
-          content: '"ringringring", 2024'
+          content: '"PSY 흠뻑쇼", 2022'
           image:
-            filename: music/surl_consert.jpeg
+            filename: music/psy_summer_swag_2022.jpeg
       - background: 
-          content: 'IPRF 2023'
+          content: '"박효신 LOVERS", 2019'
           image:
-            filename: music/iprf_2023.jpeg
-      - background: 
-          content: '"New Years’s Eve" 2022'
-          image:
-            filename: music/the_black_skirt_consert.jpeg
+            filename: music/parkhyosin_lovers_2019.jpeg
+
     design:
       view: community/main-grid
       columns: 3
 
-  - block: markdown
-    content:
-      title: Location
-      text: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.3010662434363!2d128.56395901107965!3d35.84162057242138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3565e49dd28209e7%3A0x83734ac8a26bd9f1!2z64yA7ZWc66-86rWtIOuMgOq1rOq0keyXreyLnCDrgqjqtawg64yA66qF67O16rCc66GcIDE0NC0y!5e0!3m2!1sko!2sus!4v1727252752562!5m2!1sko!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  # - block: markdown
+  #   content:
+  #     title: Location
+  #     text: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.5645458003783!2d128.41650287676933!3d36.104101672453865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3565c40da8feab95%3A0x577f3f41f2c2e01!2z6rK97IOB67aB64-EIOq1rOuvuOyLnCDsnbjrj5ky6ri4IDE0LTM!5e0!3m2!1sko!2skr!4v1741421177275!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 
   - block: community/slider
     content:
