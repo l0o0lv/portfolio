@@ -27,4 +27,5 @@ sections:
     design:
       view: community/additional
       css_class: 'hover-effect'
+      pagination: false
 ---
