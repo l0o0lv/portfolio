@@ -115,7 +115,7 @@ sections:
       title: 🧳
       slides:
       - background: 
-          content: Cebu, 2025
+          content: Cebu, 2024
           image:
             filename: trip/cebu.jpg
 ---
