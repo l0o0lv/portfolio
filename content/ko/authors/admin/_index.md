@@ -23,7 +23,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/l0o0lv
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/dongri
+    url: https://www.linkedin.com/in/l0o0lv
 
 education:
   - area: 모바일 전공 트랙
