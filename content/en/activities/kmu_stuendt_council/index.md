@@ -1,12 +1,12 @@
 ---
-title: 공과대학 학생회
-summary: 2022년 1월 ~ 2022년 12월
+title: College of Engineering Student Council
+summary: January 2022 ~ December 2022
 date: 2022-12-31
 type: docs
 math: false
 featured: true
 ---
 
-공과대학 학생회에서 체육부장으로 활동했습니다.
+Served as the Sports Director in the College of Engineering Student Council.
 
-체육부장으로서 학생회 구성원들과 체육대회, 단과대학 축제 등 여러 행사를 기획 및 운영했습니다.
+As Sports Director, I collaborated with fellow council members to plan and organize various events, including the college sports festival and department-wide celebrations.

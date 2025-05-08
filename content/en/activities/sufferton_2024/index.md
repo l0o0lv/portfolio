@@ -1,15 +1,12 @@
 ---
-title: 벤처스타트업 아카데미 서퍼톤
-summary: 2024년 8월
+title: Venture Startup Academy Surfthon
+summary: August. 2024
 date: 2024-08-19
 type: docs
 math: false
 featured: true
 ---
 
-중소벤처기업부가 주관하는 서퍼톤에 참가했습니다.
+Participated in the Surfthon hosted by the Ministry of SMEs and Startups.
 
-
-코드: [{{< icon name="brands/github" >}}](https://github.com/Surfthon/server)
-
-<!-- {{<youtube -LtBtlGEpQo>}} -->
+Code: [{{< icon name="brands/github" >}}](https://github.com/Surfthon/server)
