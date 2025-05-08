@@ -26,7 +26,7 @@ profiles:
 
 education:
   - area: Mobile Track
-    institution: Samsung Software Academy for Youth (SSAFY)
+    institution: Samsung Software Academy for Youth 13th (SSAFY)
     date_start: 2025-01-07
     date_end: ''
 
