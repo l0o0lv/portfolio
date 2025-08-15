@@ -5,8 +5,10 @@ date: 2024-11-15
 type: docs
 math: false
 
-url_pdf: awards/2024 4차 산업혁명 인재양성 공유협업 페스티발 우수상.pdf
+url_pdf: awards/2024_4차_산업혁명_인재양성_공유협업_페스티발_우수상.pdf
 ---
+
+- 상장 [{{< icon name="hero/document" >}}](/static/awards/2024_4차_산업혁명_인재양성_공유협업_페스티발_우수상.pdf)
 
 ### 발표 영상
 

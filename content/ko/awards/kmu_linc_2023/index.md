@@ -5,11 +5,12 @@ date: 2023-11-24
 type: docs
 math: false
 
-url_pdf: awards/2023_4차 산업혁명 공유협업 페스티벌_대상(ICT솔루션부문).pdf
+url_pdf: awards/2023_4차_산업혁명_공유협업_페스티벌_대상(ICT솔루션부문).pdf
 ---
+
+- 상장 [{{< icon name="hero/document" >}}](/static/awards/2023_4차_산업혁명_공유협업_페스티벌_대상(ICT솔루션부문).pdf)
 
 ### 발표 영상
 
 {{<youtube b4onGVUMpPY>}}
 
-- 증명서 [{{< icon name="hero/document" >}}](awards/벤처스타트업_아카데미_장관상.pdf)
