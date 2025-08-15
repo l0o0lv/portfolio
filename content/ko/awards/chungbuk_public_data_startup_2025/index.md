@@ -1,7 +1,7 @@
 ---
 title: 2025년 충청북도 공공데이터 활용 창업 경진대회 장려상
 summary: 2024년 8월
-date: 2024-08-07
+date: 2025-08-07
 type: docs
 math: false
 
