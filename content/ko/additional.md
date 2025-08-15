@@ -25,7 +25,7 @@ sections:
         folders:
           - certifications
     design:
-      view: grid
+      view: community/additional
       css_class: 'hover-effect'
       pagination: false
 ---

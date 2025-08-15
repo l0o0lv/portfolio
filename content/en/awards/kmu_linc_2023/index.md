@@ -7,9 +7,6 @@ math: false
 
 url_pdf: awards/2023_4차_산업혁명_공유협업_페스티벌_대상(ICT솔루션부문).pdf
 ---
-
-- Award Certificate [{{< icon name="hero/document" >}}](/static/awards/2023_4차_산업혁명_공유협업_페스티벌_대상(ICT솔루션부문).pdf)
-
 ### Presentation Video
 
 {{<youtube b4onGVUMpPY>}}

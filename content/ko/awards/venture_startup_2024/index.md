@@ -7,5 +7,3 @@ math: false
 
 url_pdf: awards/벤처스타트업_아카데미_장관상.pdf
 ---
-
-- 상장 [{{< icon name="hero/document" >}}](/static/awards/벤처스타트업_아카데미_장관상.pdf)

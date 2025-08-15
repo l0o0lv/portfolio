@@ -7,5 +7,3 @@ math: false
 
 url_pdf: awards/2024년_전자공학회_하계_우수논문.pdf
 ---
-
-- Award Certificate [{{< icon name="hero/document" >}}](/static/awards/2024년_전자공학회_하계_우수논문.pdf)
