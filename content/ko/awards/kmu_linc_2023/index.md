@@ -11,3 +11,5 @@ url_pdf: awards/2023_4차 산업혁명 공유협업 페스티벌_대상(ICT솔�
 ### 발표 영상
 
 {{<youtube b4onGVUMpPY>}}
+
+- 상장 [{{< icon name="hero/document" >}}](awards/2023_4차 산업혁명 공유협업 페스티벌_대상(ICT솔루션부문).pdf)
