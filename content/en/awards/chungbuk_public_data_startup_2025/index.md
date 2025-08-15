@@ -1,6 +1,6 @@
 ---
 title: Encouragement Award at the 2025 Chungcheongbuk-do Public Data Utilization Startup Competition
-summary: August. 2024
+summary: August. 2025
 date: 2025-08-07
 type: docs
 math: false
