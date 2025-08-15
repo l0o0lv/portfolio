@@ -8,4 +8,6 @@ math: false
 url_pdf: awards/교내_IT_콘텐츠_공모전.jpg
 ---
 
+### 발표 영상
+
 {{<youtube YriS7VdEInw>}}

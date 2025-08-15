@@ -7,3 +7,5 @@ math: false
 
 url_pdf: awards/경북대_계명대_공동_해커톤_금상.pdf
 ---
+
+- Award Certificate [{{< icon name="hero/document" >}}](/static/awards/경북대_계명대_공동_해커톤_금상.pdf)
