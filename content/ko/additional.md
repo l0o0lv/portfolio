@@ -14,8 +14,9 @@ sections:
         folders:
           - awards
     design:
-      view: community/additional
+      view: list
       css_class: 'hover-effect'
+      pagination: false
 
   - block: collection
     id: certs
@@ -25,7 +26,7 @@ sections:
         folders:
           - certifications
     design:
-      view: community/additional
+      view: list
       css_class: 'hover-effect'
       pagination: false
 ---
