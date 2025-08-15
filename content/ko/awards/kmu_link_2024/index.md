@@ -7,3 +7,7 @@ math: false
 
 url_pdf: awards/2024 4차 산업혁명 인재양성 공유협업 페스티발 우수상.pdf
 ---
+
+### 발표 영상
+
+{{<youtube itsylWX8moo>}}
