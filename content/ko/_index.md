@@ -115,6 +115,10 @@ sections:
       title: 🧳
       slides:
       - background: 
+          content: Jeju, 2025
+          image:
+            filename: trip/jeju_2025.jpg
+      - background: 
           content: Cebu, 2024
           image:
             filename: trip/cebu.jpg
