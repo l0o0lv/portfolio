@@ -72,13 +72,17 @@ sections:
       title: 🎶
       slides:
       - background: 
-          content: '"Coldplay Seoul", 2025'
+          content: '"PSY 흠뻑쇼", 2025'
           image:
-            filename: music/coldplay_seoul_2025.jpeg
+            filename: music/psy_summer_swag_2025.jpeg
       - background: 
           content: '"YDBB Get Lucky!", 2025'
           image:
             filename: music/ydbb_get_lucky_2025.jpg
+      - background: 
+          content: '"Coldplay Seoul", 2025'
+          image:
+            filename: music/coldplay_seoul_2025.jpeg
       - background: 
           content: '"YDBB 우리의밤", 2024'
           image:
