@@ -126,4 +126,8 @@ sections:
           content: Cebu, 2024
           image:
             filename: trip/cebu.jpg
+
+    design:
+      view: community/main-grid
+      columns: 3
 ---
